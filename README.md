@@ -28,7 +28,7 @@
 ```yaml
 name       : Santhosh Venkatachalam
 role       : DevOps Engineer
-experience : 1+ year  ->  Internship (7 months) + Full-Time (6 months)
+experience : 1+ year
 location   : Coimbatore, Tamil Nadu, India
 company    : Gravity AI Technologies Pvt. Ltd.
 learning   : AWS Solutions Architect Associate (SAA-C03) — In Progress 2026
@@ -165,6 +165,30 @@ CPU  85%  [================]  Critical  <- Auto alert banner fires
 
 ---
 
+### Employee Management System (EMS) — Azure Container Deployment
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=A5D6FF&width=700&lines=Containerized+PHP+Application+Deployment+on+Microsoft+Azure" alt="Typing SVG" />
+
+```text
+GitHub Actions
+       |
+       v
+Docker Build & Push
+       |
+       v
+Azure Container Registry (ACR)
+       |
+       v
+Azure Container Apps
+       |
+       v
+Azure Database for MySQL
+```
+
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/santhosh-v-173/php-ems-azure)
+
+---
+
 ## Tech Stack
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=D2A8FF&width=435&lines=Tools+I+use+in+production." alt="Typing SVG" />
@@ -177,6 +201,9 @@ CPU  85%  [================]  Critical  <- Auto alert banner fires
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Container Registry](https://img.shields.io/badge/Azure_ACR-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **CI/CD and Containers**
 
