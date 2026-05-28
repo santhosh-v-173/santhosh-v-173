@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Santhosh%20Venkatachalam&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Kubernetes&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Santhosh%20Venkatachalam&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Microsoft%20Azure%20%7C%20Terraform%20%7C%20Kubernetes&descAlignY=55&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Provisioning+AWS+infrastructure+with+Terraform...;Automating+CI%2FCD+pipelines+with+GitHub+Actions...;Building+real-time+observability+dashboards...;Deploying+containers+to+Kubernetes+on+EKS...;Enforcing+IAM+least-privilege+security...;Alerts+firing+in+15+seconds+on+production+errors...;1%2B+year+shipping+production+cloud+systems." alt="Typing SVG" />
 
